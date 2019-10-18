@@ -6,14 +6,18 @@
     },
     {
     "id": 2,
-    "title": "Post 2"
+    "title": "This is dad"
     },
     {
     "id": 3,
-    "title": "Post 3"
+    "title": "Are you ignoring me?"
+    },
+     {
+    "id": 4,
+    "title": "Poke"
     }
   ],
   "profile": {
-    "name": "Your Mom"
+    "name": "Your Dad"
   }
 }
